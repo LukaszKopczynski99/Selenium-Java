@@ -1,4 +1,4 @@
-Selenium learning tasks made with SDET-QA yt channel https://www.youtube.com/@sdetpavan. 
+Selenium tasks made with SDET-QA yt channel https://www.youtube.com/@sdetpavan. 
 
 TravelAgencyMain:
 Simple test case made for https://www.blazedemo.com/
